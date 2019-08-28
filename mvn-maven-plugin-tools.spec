@@ -4,7 +4,7 @@
 #
 Name     : mvn-maven-plugin-tools
 Version  : 3.5
-Release  : 8
+Release  : 9
 URL      : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-annotations/3.5/maven-plugin-annotations-3.5.jar
 Source0  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-annotations/3.5/maven-plugin-annotations-3.5.jar
 Source1  : https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugin-plugin/3.4/maven-plugin-plugin-3.4.jar
@@ -13,60 +13,66 @@ Source3  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-pl
 Source4  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-annotations/3.1/maven-plugin-annotations-3.1.pom
 Source5  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-annotations/3.2/maven-plugin-annotations-3.2.jar
 Source6  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-annotations/3.2/maven-plugin-annotations-3.2.pom
-Source7  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-annotations/3.5/maven-plugin-annotations-3.5.pom
-Source8  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-annotations/3.6.0/maven-plugin-annotations-3.6.0.jar
-Source9  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-annotations/3.6.0/maven-plugin-annotations-3.6.0.pom
-Source10  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-annotations/3.2/maven-plugin-tools-annotations-3.2.jar
-Source11  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-annotations/3.2/maven-plugin-tools-annotations-3.2.pom
-Source12  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-annotations/3.6.0/maven-plugin-tools-annotations-3.6.0.jar
-Source13  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-annotations/3.6.0/maven-plugin-tools-annotations-3.6.0.pom
-Source14  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-api/3.2/maven-plugin-tools-api-3.2.jar
-Source15  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-api/3.2/maven-plugin-tools-api-3.2.pom
-Source16  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-api/3.5.2/maven-plugin-tools-api-3.5.2.jar
-Source17  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-api/3.5.2/maven-plugin-tools-api-3.5.2.pom
-Source18  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-api/3.6.0/maven-plugin-tools-api-3.6.0.jar
-Source19  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-api/3.6.0/maven-plugin-tools-api-3.6.0.pom
-Source20  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-beanshell/3.2/maven-plugin-tools-beanshell-3.2.jar
-Source21  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-beanshell/3.2/maven-plugin-tools-beanshell-3.2.pom
-Source22  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-generators/3.2/maven-plugin-tools-generators-3.2.jar
-Source23  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-generators/3.2/maven-plugin-tools-generators-3.2.pom
-Source24  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-generators/3.5.2/maven-plugin-tools-generators-3.5.2.jar
-Source25  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-generators/3.5.2/maven-plugin-tools-generators-3.5.2.pom
-Source26  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-generators/3.6.0/maven-plugin-tools-generators-3.6.0.jar
-Source27  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-generators/3.6.0/maven-plugin-tools-generators-3.6.0.pom
-Source28  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-java/3.2/maven-plugin-tools-java-3.2.jar
-Source29  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-java/3.2/maven-plugin-tools-java-3.2.pom
-Source30  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-java/3.6.0/maven-plugin-tools-java-3.6.0.jar
-Source31  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-java/3.6.0/maven-plugin-tools-java-3.6.0.pom
-Source32  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-model/3.2/maven-plugin-tools-model-3.2.jar
-Source33  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-model/3.2/maven-plugin-tools-model-3.2.pom
-Source34  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools/3.1/maven-plugin-tools-3.1.pom
-Source35  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools/3.2/maven-plugin-tools-3.2.pom
-Source36  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools/3.4/maven-plugin-tools-3.4.pom
-Source37  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools/3.5.2/maven-plugin-tools-3.5.2.pom
-Source38  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools/3.5/maven-plugin-tools-3.5.pom
-Source39  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools/3.5/maven-plugin-tools-3.5.pom
-Source40  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools/3.6.0/maven-plugin-tools-3.6.0.pom
-Source41  : https://repo1.maven.org/maven2/org/apache/maven/plugins/maven-assembly-plugin/2.4/maven-assembly-plugin-2.4.jar
-Source42  : https://repo1.maven.org/maven2/org/apache/maven/plugins/maven-assembly-plugin/2.4/maven-assembly-plugin-2.4.pom
-Source43  : https://repo1.maven.org/maven2/org/apache/maven/plugins/maven-assembly-plugin/3.0.0/maven-assembly-plugin-3.0.0.jar
-Source44  : https://repo1.maven.org/maven2/org/apache/maven/plugins/maven-assembly-plugin/3.0.0/maven-assembly-plugin-3.0.0.pom
-Source45  : https://repo1.maven.org/maven2/org/apache/maven/plugins/maven-checkstyle-plugin/3.0.0/maven-checkstyle-plugin-3.0.0.jar
-Source46  : https://repo1.maven.org/maven2/org/apache/maven/plugins/maven-checkstyle-plugin/3.0.0/maven-checkstyle-plugin-3.0.0.pom
-Source47  : https://repo1.maven.org/maven2/org/apache/maven/plugins/maven-dependency-plugin/3.0.2/maven-dependency-plugin-3.0.2.jar
-Source48  : https://repo1.maven.org/maven2/org/apache/maven/plugins/maven-dependency-plugin/3.0.2/maven-dependency-plugin-3.0.2.pom
-Source49  : https://repo1.maven.org/maven2/org/apache/maven/plugins/maven-plugin-plugin/3.2/maven-plugin-plugin-3.2.jar
-Source50  : https://repo1.maven.org/maven2/org/apache/maven/plugins/maven-plugin-plugin/3.2/maven-plugin-plugin-3.2.pom
-Source51  : https://repo1.maven.org/maven2/org/apache/maven/plugins/maven-plugin-plugin/3.6.0/maven-plugin-plugin-3.6.0.jar
-Source52  : https://repo1.maven.org/maven2/org/apache/maven/plugins/maven-plugin-plugin/3.6.0/maven-plugin-plugin-3.6.0.pom
-Source53  : https://repo1.maven.org/maven2/org/apache/maven/plugins/maven-remote-resources-plugin/1.5/maven-remote-resources-plugin-1.5.jar
-Source54  : https://repo1.maven.org/maven2/org/apache/maven/plugins/maven-remote-resources-plugin/1.5/maven-remote-resources-plugin-1.5.pom
-Source55  : https://repo1.maven.org/maven2/org/apache/maven/plugins/maven-resources-plugin/3.1.0/maven-resources-plugin-3.1.0.jar
-Source56  : https://repo1.maven.org/maven2/org/apache/maven/plugins/maven-resources-plugin/3.1.0/maven-resources-plugin-3.1.0.pom
+Source7  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-annotations/3.3/maven-plugin-annotations-3.3.jar
+Source8  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-annotations/3.3/maven-plugin-annotations-3.3.pom
+Source9  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-annotations/3.5/maven-plugin-annotations-3.5.pom
+Source10  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-annotations/3.6.0/maven-plugin-annotations-3.6.0.jar
+Source11  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-annotations/3.6.0/maven-plugin-annotations-3.6.0.pom
+Source12  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-annotations/3.2/maven-plugin-tools-annotations-3.2.jar
+Source13  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-annotations/3.2/maven-plugin-tools-annotations-3.2.pom
+Source14  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-annotations/3.6.0/maven-plugin-tools-annotations-3.6.0.jar
+Source15  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-annotations/3.6.0/maven-plugin-tools-annotations-3.6.0.pom
+Source16  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-api/3.2/maven-plugin-tools-api-3.2.jar
+Source17  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-api/3.2/maven-plugin-tools-api-3.2.pom
+Source18  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-api/3.5.2/maven-plugin-tools-api-3.5.2.jar
+Source19  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-api/3.5.2/maven-plugin-tools-api-3.5.2.pom
+Source20  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-api/3.6.0/maven-plugin-tools-api-3.6.0.jar
+Source21  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-api/3.6.0/maven-plugin-tools-api-3.6.0.pom
+Source22  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-beanshell/3.2/maven-plugin-tools-beanshell-3.2.jar
+Source23  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-beanshell/3.2/maven-plugin-tools-beanshell-3.2.pom
+Source24  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-generators/3.2/maven-plugin-tools-generators-3.2.jar
+Source25  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-generators/3.2/maven-plugin-tools-generators-3.2.pom
+Source26  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-generators/3.5.2/maven-plugin-tools-generators-3.5.2.jar
+Source27  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-generators/3.5.2/maven-plugin-tools-generators-3.5.2.pom
+Source28  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-generators/3.6.0/maven-plugin-tools-generators-3.6.0.jar
+Source29  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-generators/3.6.0/maven-plugin-tools-generators-3.6.0.pom
+Source30  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-java/3.2/maven-plugin-tools-java-3.2.jar
+Source31  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-java/3.2/maven-plugin-tools-java-3.2.pom
+Source32  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-java/3.6.0/maven-plugin-tools-java-3.6.0.jar
+Source33  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-java/3.6.0/maven-plugin-tools-java-3.6.0.pom
+Source34  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-model/3.2/maven-plugin-tools-model-3.2.jar
+Source35  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-model/3.2/maven-plugin-tools-model-3.2.pom
+Source36  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools/3.1/maven-plugin-tools-3.1.pom
+Source37  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools/3.2/maven-plugin-tools-3.2.pom
+Source38  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools/3.3/maven-plugin-tools-3.3.pom
+Source39  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools/3.4/maven-plugin-tools-3.4.pom
+Source40  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools/3.5.2/maven-plugin-tools-3.5.2.pom
+Source41  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools/3.5/maven-plugin-tools-3.5.pom
+Source42  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools/3.5/maven-plugin-tools-3.5.pom
+Source43  : https://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools/3.6.0/maven-plugin-tools-3.6.0.pom
+Source44  : https://repo1.maven.org/maven2/org/apache/maven/plugins/maven-assembly-plugin/2.4/maven-assembly-plugin-2.4.jar
+Source45  : https://repo1.maven.org/maven2/org/apache/maven/plugins/maven-assembly-plugin/2.4/maven-assembly-plugin-2.4.pom
+Source46  : https://repo1.maven.org/maven2/org/apache/maven/plugins/maven-assembly-plugin/3.0.0/maven-assembly-plugin-3.0.0.jar
+Source47  : https://repo1.maven.org/maven2/org/apache/maven/plugins/maven-assembly-plugin/3.0.0/maven-assembly-plugin-3.0.0.pom
+Source48  : https://repo1.maven.org/maven2/org/apache/maven/plugins/maven-checkstyle-plugin/3.0.0/maven-checkstyle-plugin-3.0.0.jar
+Source49  : https://repo1.maven.org/maven2/org/apache/maven/plugins/maven-checkstyle-plugin/3.0.0/maven-checkstyle-plugin-3.0.0.pom
+Source50  : https://repo1.maven.org/maven2/org/apache/maven/plugins/maven-dependency-plugin/3.0.2/maven-dependency-plugin-3.0.2.jar
+Source51  : https://repo1.maven.org/maven2/org/apache/maven/plugins/maven-dependency-plugin/3.0.2/maven-dependency-plugin-3.0.2.pom
+Source52  : https://repo1.maven.org/maven2/org/apache/maven/plugins/maven-plugin-plugin/3.2/maven-plugin-plugin-3.2.jar
+Source53  : https://repo1.maven.org/maven2/org/apache/maven/plugins/maven-plugin-plugin/3.2/maven-plugin-plugin-3.2.pom
+Source54  : https://repo1.maven.org/maven2/org/apache/maven/plugins/maven-plugin-plugin/3.6.0/maven-plugin-plugin-3.6.0.jar
+Source55  : https://repo1.maven.org/maven2/org/apache/maven/plugins/maven-plugin-plugin/3.6.0/maven-plugin-plugin-3.6.0.pom
+Source56  : https://repo1.maven.org/maven2/org/apache/maven/plugins/maven-remote-resources-plugin/1.5/maven-remote-resources-plugin-1.5.jar
+Source57  : https://repo1.maven.org/maven2/org/apache/maven/plugins/maven-remote-resources-plugin/1.5/maven-remote-resources-plugin-1.5.pom
+Source58  : https://repo1.maven.org/maven2/org/apache/maven/plugins/maven-resources-plugin/3.1.0/maven-resources-plugin-3.1.0.jar
+Source59  : https://repo1.maven.org/maven2/org/apache/maven/plugins/maven-resources-plugin/3.1.0/maven-resources-plugin-3.1.0.pom
 Summary  : No detailed summary available
 Group    : Development/Tools
 License  : Apache-2.0
 Requires: mvn-maven-plugin-tools-data = %{version}-%{release}
+Requires: mvn-maven-plugin-tools-license = %{version}-%{release}
+BuildRequires : apache-maven
+BuildRequires : buildreq-mvn
 
 %description
 No detailed description available
@@ -79,11 +85,23 @@ Group: Data
 data components for the mvn-maven-plugin-tools package.
 
 
+%package license
+Summary: license components for the mvn-maven-plugin-tools package.
+Group: Default
+
+%description license
+license components for the mvn-maven-plugin-tools package.
+
+
 %prep
+%setup -q -n META-INF
 
 %build
 
 %install
+mkdir -p %{buildroot}/usr/share/package-licenses/mvn-maven-plugin-tools
+cp LICENSE %{buildroot}/usr/share/package-licenses/mvn-maven-plugin-tools/LICENSE
+cp NOTICE %{buildroot}/usr/share/package-licenses/mvn-maven-plugin-tools/NOTICE
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-annotations/3.5
 cp %{SOURCE0} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-annotations/3.5/maven-plugin-annotations-3.5.jar
 
@@ -105,155 +123,164 @@ cp %{SOURCE5} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-annotations/3.2
 cp %{SOURCE6} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-annotations/3.2/maven-plugin-annotations-3.2.pom
 
+mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-annotations/3.3
+cp %{SOURCE7} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-annotations/3.3/maven-plugin-annotations-3.3.jar
+
+mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-annotations/3.3
+cp %{SOURCE8} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-annotations/3.3/maven-plugin-annotations-3.3.pom
+
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-annotations/3.5
-cp %{SOURCE7} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-annotations/3.5/maven-plugin-annotations-3.5.pom
+cp %{SOURCE9} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-annotations/3.5/maven-plugin-annotations-3.5.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-annotations/3.6.0
-cp %{SOURCE8} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-annotations/3.6.0/maven-plugin-annotations-3.6.0.jar
+cp %{SOURCE10} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-annotations/3.6.0/maven-plugin-annotations-3.6.0.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-annotations/3.6.0
-cp %{SOURCE9} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-annotations/3.6.0/maven-plugin-annotations-3.6.0.pom
+cp %{SOURCE11} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-annotations/3.6.0/maven-plugin-annotations-3.6.0.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-annotations/3.2
-cp %{SOURCE10} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-annotations/3.2/maven-plugin-tools-annotations-3.2.jar
+cp %{SOURCE12} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-annotations/3.2/maven-plugin-tools-annotations-3.2.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-annotations/3.2
-cp %{SOURCE11} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-annotations/3.2/maven-plugin-tools-annotations-3.2.pom
+cp %{SOURCE13} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-annotations/3.2/maven-plugin-tools-annotations-3.2.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-annotations/3.6.0
-cp %{SOURCE12} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-annotations/3.6.0/maven-plugin-tools-annotations-3.6.0.jar
+cp %{SOURCE14} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-annotations/3.6.0/maven-plugin-tools-annotations-3.6.0.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-annotations/3.6.0
-cp %{SOURCE13} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-annotations/3.6.0/maven-plugin-tools-annotations-3.6.0.pom
+cp %{SOURCE15} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-annotations/3.6.0/maven-plugin-tools-annotations-3.6.0.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-api/3.2
-cp %{SOURCE14} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-api/3.2/maven-plugin-tools-api-3.2.jar
+cp %{SOURCE16} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-api/3.2/maven-plugin-tools-api-3.2.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-api/3.2
-cp %{SOURCE15} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-api/3.2/maven-plugin-tools-api-3.2.pom
+cp %{SOURCE17} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-api/3.2/maven-plugin-tools-api-3.2.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-api/3.5.2
-cp %{SOURCE16} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-api/3.5.2/maven-plugin-tools-api-3.5.2.jar
+cp %{SOURCE18} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-api/3.5.2/maven-plugin-tools-api-3.5.2.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-api/3.5.2
-cp %{SOURCE17} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-api/3.5.2/maven-plugin-tools-api-3.5.2.pom
+cp %{SOURCE19} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-api/3.5.2/maven-plugin-tools-api-3.5.2.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-api/3.6.0
-cp %{SOURCE18} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-api/3.6.0/maven-plugin-tools-api-3.6.0.jar
+cp %{SOURCE20} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-api/3.6.0/maven-plugin-tools-api-3.6.0.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-api/3.6.0
-cp %{SOURCE19} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-api/3.6.0/maven-plugin-tools-api-3.6.0.pom
+cp %{SOURCE21} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-api/3.6.0/maven-plugin-tools-api-3.6.0.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-beanshell/3.2
-cp %{SOURCE20} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-beanshell/3.2/maven-plugin-tools-beanshell-3.2.jar
+cp %{SOURCE22} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-beanshell/3.2/maven-plugin-tools-beanshell-3.2.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-beanshell/3.2
-cp %{SOURCE21} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-beanshell/3.2/maven-plugin-tools-beanshell-3.2.pom
+cp %{SOURCE23} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-beanshell/3.2/maven-plugin-tools-beanshell-3.2.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-generators/3.2
-cp %{SOURCE22} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-generators/3.2/maven-plugin-tools-generators-3.2.jar
+cp %{SOURCE24} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-generators/3.2/maven-plugin-tools-generators-3.2.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-generators/3.2
-cp %{SOURCE23} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-generators/3.2/maven-plugin-tools-generators-3.2.pom
+cp %{SOURCE25} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-generators/3.2/maven-plugin-tools-generators-3.2.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-generators/3.5.2
-cp %{SOURCE24} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-generators/3.5.2/maven-plugin-tools-generators-3.5.2.jar
+cp %{SOURCE26} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-generators/3.5.2/maven-plugin-tools-generators-3.5.2.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-generators/3.5.2
-cp %{SOURCE25} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-generators/3.5.2/maven-plugin-tools-generators-3.5.2.pom
+cp %{SOURCE27} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-generators/3.5.2/maven-plugin-tools-generators-3.5.2.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-generators/3.6.0
-cp %{SOURCE26} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-generators/3.6.0/maven-plugin-tools-generators-3.6.0.jar
+cp %{SOURCE28} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-generators/3.6.0/maven-plugin-tools-generators-3.6.0.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-generators/3.6.0
-cp %{SOURCE27} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-generators/3.6.0/maven-plugin-tools-generators-3.6.0.pom
+cp %{SOURCE29} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-generators/3.6.0/maven-plugin-tools-generators-3.6.0.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-java/3.2
-cp %{SOURCE28} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-java/3.2/maven-plugin-tools-java-3.2.jar
+cp %{SOURCE30} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-java/3.2/maven-plugin-tools-java-3.2.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-java/3.2
-cp %{SOURCE29} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-java/3.2/maven-plugin-tools-java-3.2.pom
+cp %{SOURCE31} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-java/3.2/maven-plugin-tools-java-3.2.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-java/3.6.0
-cp %{SOURCE30} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-java/3.6.0/maven-plugin-tools-java-3.6.0.jar
+cp %{SOURCE32} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-java/3.6.0/maven-plugin-tools-java-3.6.0.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-java/3.6.0
-cp %{SOURCE31} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-java/3.6.0/maven-plugin-tools-java-3.6.0.pom
+cp %{SOURCE33} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-java/3.6.0/maven-plugin-tools-java-3.6.0.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-model/3.2
-cp %{SOURCE32} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-model/3.2/maven-plugin-tools-model-3.2.jar
+cp %{SOURCE34} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-model/3.2/maven-plugin-tools-model-3.2.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-model/3.2
-cp %{SOURCE33} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-model/3.2/maven-plugin-tools-model-3.2.pom
+cp %{SOURCE35} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-model/3.2/maven-plugin-tools-model-3.2.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools/3.1
-cp %{SOURCE34} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools/3.1/maven-plugin-tools-3.1.pom
+cp %{SOURCE36} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools/3.1/maven-plugin-tools-3.1.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools/3.2
-cp %{SOURCE35} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools/3.2/maven-plugin-tools-3.2.pom
+cp %{SOURCE37} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools/3.2/maven-plugin-tools-3.2.pom
+
+mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools/3.3
+cp %{SOURCE38} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools/3.3/maven-plugin-tools-3.3.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools/3.4
-cp %{SOURCE36} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools/3.4/maven-plugin-tools-3.4.pom
+cp %{SOURCE39} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools/3.4/maven-plugin-tools-3.4.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools/3.5.2
-cp %{SOURCE37} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools/3.5.2/maven-plugin-tools-3.5.2.pom
+cp %{SOURCE40} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools/3.5.2/maven-plugin-tools-3.5.2.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools/3.5
-cp %{SOURCE38} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools/3.5/maven-plugin-tools-3.5.pom
+cp %{SOURCE41} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools/3.5/maven-plugin-tools-3.5.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools/3.5
-cp %{SOURCE39} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools/3.5/maven-plugin-tools-3.5.pom
+cp %{SOURCE42} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools/3.5/maven-plugin-tools-3.5.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools/3.6.0
-cp %{SOURCE40} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools/3.6.0/maven-plugin-tools-3.6.0.pom
+cp %{SOURCE43} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools/3.6.0/maven-plugin-tools-3.6.0.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugins/maven-assembly-plugin/2.4
-cp %{SOURCE41} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugins/maven-assembly-plugin/2.4/maven-assembly-plugin-2.4.jar
+cp %{SOURCE44} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugins/maven-assembly-plugin/2.4/maven-assembly-plugin-2.4.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugins/maven-assembly-plugin/2.4
-cp %{SOURCE42} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugins/maven-assembly-plugin/2.4/maven-assembly-plugin-2.4.pom
+cp %{SOURCE45} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugins/maven-assembly-plugin/2.4/maven-assembly-plugin-2.4.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugins/maven-assembly-plugin/3.0.0
-cp %{SOURCE43} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugins/maven-assembly-plugin/3.0.0/maven-assembly-plugin-3.0.0.jar
+cp %{SOURCE46} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugins/maven-assembly-plugin/3.0.0/maven-assembly-plugin-3.0.0.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugins/maven-assembly-plugin/3.0.0
-cp %{SOURCE44} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugins/maven-assembly-plugin/3.0.0/maven-assembly-plugin-3.0.0.pom
+cp %{SOURCE47} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugins/maven-assembly-plugin/3.0.0/maven-assembly-plugin-3.0.0.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugins/maven-checkstyle-plugin/3.0.0
-cp %{SOURCE45} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugins/maven-checkstyle-plugin/3.0.0/maven-checkstyle-plugin-3.0.0.jar
+cp %{SOURCE48} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugins/maven-checkstyle-plugin/3.0.0/maven-checkstyle-plugin-3.0.0.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugins/maven-checkstyle-plugin/3.0.0
-cp %{SOURCE46} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugins/maven-checkstyle-plugin/3.0.0/maven-checkstyle-plugin-3.0.0.pom
+cp %{SOURCE49} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugins/maven-checkstyle-plugin/3.0.0/maven-checkstyle-plugin-3.0.0.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugins/maven-dependency-plugin/3.0.2
-cp %{SOURCE47} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugins/maven-dependency-plugin/3.0.2/maven-dependency-plugin-3.0.2.jar
+cp %{SOURCE50} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugins/maven-dependency-plugin/3.0.2/maven-dependency-plugin-3.0.2.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugins/maven-dependency-plugin/3.0.2
-cp %{SOURCE48} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugins/maven-dependency-plugin/3.0.2/maven-dependency-plugin-3.0.2.pom
+cp %{SOURCE51} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugins/maven-dependency-plugin/3.0.2/maven-dependency-plugin-3.0.2.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugins/maven-plugin-plugin/3.2
-cp %{SOURCE49} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugins/maven-plugin-plugin/3.2/maven-plugin-plugin-3.2.jar
+cp %{SOURCE52} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugins/maven-plugin-plugin/3.2/maven-plugin-plugin-3.2.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugins/maven-plugin-plugin/3.2
-cp %{SOURCE50} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugins/maven-plugin-plugin/3.2/maven-plugin-plugin-3.2.pom
+cp %{SOURCE53} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugins/maven-plugin-plugin/3.2/maven-plugin-plugin-3.2.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugins/maven-plugin-plugin/3.6.0
-cp %{SOURCE51} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugins/maven-plugin-plugin/3.6.0/maven-plugin-plugin-3.6.0.jar
+cp %{SOURCE54} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugins/maven-plugin-plugin/3.6.0/maven-plugin-plugin-3.6.0.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugins/maven-plugin-plugin/3.6.0
-cp %{SOURCE52} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugins/maven-plugin-plugin/3.6.0/maven-plugin-plugin-3.6.0.pom
+cp %{SOURCE55} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugins/maven-plugin-plugin/3.6.0/maven-plugin-plugin-3.6.0.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugins/maven-remote-resources-plugin/1.5
-cp %{SOURCE53} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugins/maven-remote-resources-plugin/1.5/maven-remote-resources-plugin-1.5.jar
+cp %{SOURCE56} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugins/maven-remote-resources-plugin/1.5/maven-remote-resources-plugin-1.5.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugins/maven-remote-resources-plugin/1.5
-cp %{SOURCE54} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugins/maven-remote-resources-plugin/1.5/maven-remote-resources-plugin-1.5.pom
+cp %{SOURCE57} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugins/maven-remote-resources-plugin/1.5/maven-remote-resources-plugin-1.5.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugins/maven-resources-plugin/3.1.0
-cp %{SOURCE55} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugins/maven-resources-plugin/3.1.0/maven-resources-plugin-3.1.0.jar
+cp %{SOURCE58} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugins/maven-resources-plugin/3.1.0/maven-resources-plugin-3.1.0.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugins/maven-resources-plugin/3.1.0
-cp %{SOURCE56} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugins/maven-resources-plugin/3.1.0/maven-resources-plugin-3.1.0.pom
+cp %{SOURCE59} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugins/maven-resources-plugin/3.1.0/maven-resources-plugin-3.1.0.pom
 
 
 %files
@@ -265,6 +292,8 @@ cp %{SOURCE56} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugi
 /usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-annotations/3.1/maven-plugin-annotations-3.1.pom
 /usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-annotations/3.2/maven-plugin-annotations-3.2.jar
 /usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-annotations/3.2/maven-plugin-annotations-3.2.pom
+/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-annotations/3.3/maven-plugin-annotations-3.3.jar
+/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-annotations/3.3/maven-plugin-annotations-3.3.pom
 /usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-annotations/3.5/maven-plugin-annotations-3.5.jar
 /usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-annotations/3.5/maven-plugin-annotations-3.5.pom
 /usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-annotations/3.6.0/maven-plugin-annotations-3.6.0.jar
@@ -295,6 +324,7 @@ cp %{SOURCE56} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugi
 /usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools-model/3.2/maven-plugin-tools-model-3.2.pom
 /usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools/3.1/maven-plugin-tools-3.1.pom
 /usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools/3.2/maven-plugin-tools-3.2.pom
+/usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools/3.3/maven-plugin-tools-3.3.pom
 /usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools/3.4/maven-plugin-tools-3.4.pom
 /usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools/3.5.2/maven-plugin-tools-3.5.2.pom
 /usr/share/java/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-tools/3.5/maven-plugin-tools-3.5.pom
@@ -317,3 +347,8 @@ cp %{SOURCE56} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/plugi
 /usr/share/java/.m2/repository/org/apache/maven/plugins/maven-remote-resources-plugin/1.5/maven-remote-resources-plugin-1.5.pom
 /usr/share/java/.m2/repository/org/apache/maven/plugins/maven-resources-plugin/3.1.0/maven-resources-plugin-3.1.0.jar
 /usr/share/java/.m2/repository/org/apache/maven/plugins/maven-resources-plugin/3.1.0/maven-resources-plugin-3.1.0.pom
+
+%files license
+%defattr(0644,root,root,0755)
+/usr/share/package-licenses/mvn-maven-plugin-tools/LICENSE
+/usr/share/package-licenses/mvn-maven-plugin-tools/NOTICE
