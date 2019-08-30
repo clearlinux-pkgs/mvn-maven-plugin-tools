@@ -1,8 +1,6 @@
 403ab542cc88975c9fb41c0fba893d5b0d028c97/maven-plugin-annotations-3.5.jar
 8c8a901b634eda9b3b7aee7863258f9d98bf32de/maven-plugin-annotations-3.5.pom
 b6d54fdd611d24e0c8edef5a71ba9c92d9840574/maven-plugin-tools-3.5.pom
-e3af724091c5688af0299f2eeeda694c0eee72e2/maven-assembly-plugin-3.0.0.jar
-fc7476367a1d736ddb7091dd4d2ad06a6bf2669c/maven-assembly-plugin-3.0.0.pom
 39286d0eb85ab454d02c2338df87342952989dea/maven-checkstyle-plugin-3.0.0.jar
 384ebba64c49b91a39a287c97c9dc1619d10e3eb/maven-checkstyle-plugin-3.0.0.pom
 e8c19991b6b6906ef42cf29f17f61af4770864f0/maven-remote-resources-plugin-1.5.jar
@@ -17,8 +15,6 @@ c541e05306941f0f89d06108e034b9032415c457/maven-plugin-tools-generators-3.5.2.jar
 9fb061e542e5273b2ced08744c72d58da7c23f7e/maven-plugin-tools-api-3.5.2.pom
 80e8ac285a46b084551d2e2f19215e22dd8962a5/maven-plugin-plugin-3.4.jar
 f10066d3fa0bbd1958f706b0b0b850cb2946dce7/maven-plugin-plugin-3.4.pom
-3aae103de85eaa4c7eddee0ebe3431fd63a7e255/maven-assembly-plugin-2.4.jar
-5ed2aafa283fb1219934f67b7b7319ec93d8a49f/maven-assembly-plugin-2.4.pom
 a372cf5cac374be969fa8d32e585b99ba1f36f7b/maven-dependency-plugin-3.0.2.jar
 6524150310303afcc32ffa6923be6f2a3e51eb76/maven-dependency-plugin-3.0.2.pom
 06959f227cb1d36470877ce56c7425fe6626dac2/maven-plugin-annotations-3.2.jar
@@ -60,3 +56,13 @@ b3de0512f9a2bf1fad71bf9f520acf1b31e184c4/maven-plugin-tools-annotations-3.6.0.ja
 f278e0eb9e6cf75a3113b1f8aa2c10654cb5e703/maven-plugin-tools-3.3.pom
 958c81789d4cc52e7f83ede3168633c0b03ea2de/maven-plugin-annotations-3.5.2.jar
 263f39d1cb915beaa94497d2b4b6ec94ca5b1291/maven-plugin-annotations-3.5.2.pom
+c25336361845701a0326dded89dc49e247183f0a/maven-checkstyle-plugin-2.17.jar
+de4dcfa8d36d9679f3649f11878c92104568122b/maven-dependency-plugin-2.9.jar
+22e946598b986ca3dcce8a5d3973a5f74a5f1d52/maven-dependency-plugin-3.0.1.jar
+e348af6765ac0b96de98983f9ac96df3649f0b69/maven-dependency-plugin-3.1.1.jar
+94af11389943a480ecec7db01b4ded1b9cdf57c5/maven-resources-plugin-2.7.jar
+baf44311c17617128c344c526af6a794ec61e350/maven-checkstyle-plugin-2.17.pom
+232ccc0be70761d2f8b8fdedf975b9ad3bf0ed32/maven-dependency-plugin-2.9.pom
+cee75ce6bb58621e253f02d050ac6655911e9927/maven-dependency-plugin-3.0.1.pom
+f9e6e390a53b56e126782a083e1424dfb7be4904/maven-dependency-plugin-3.1.1.pom
+b008d96ea92a79925b69ab6673e2aa93ce13fc8e/maven-resources-plugin-2.7.pom
